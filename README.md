@@ -11,3 +11,10 @@ Maven dependencies used:
     <artifactId>vavr</artifactId>
     <version>0.10.2</version>
 </dependency>
+
+<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core -->
+<dependency>
+    <groupId>com.fasterxml.jackson.core</groupId>
+    <artifactId>jackson-core</artifactId>
+    <version>2.9.8</version>
+</dependency>
