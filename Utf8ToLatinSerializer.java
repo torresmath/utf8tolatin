@@ -1,4 +1,3 @@
-package com.forleven.core;
 
 import java.nio.ByteBuffer;
 import java.nio.CharBuffer;
